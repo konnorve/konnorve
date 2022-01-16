@@ -1,7 +1,11 @@
 👋 Hi, I’m @konnorve
+
 👀 I’m interested in computational biology
+
 🌱 I’m currently learning Plotly and React
+
 💞️ I’m looking to collaborate on microbial genomic modeling and knowledge graphing. 
+
 📫 How to reach me kve@mit.edu
 
 <!---
