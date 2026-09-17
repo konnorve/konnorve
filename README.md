@@ -2,8 +2,6 @@
 
 👀 I’m interested in computational biology
 
-🌱 I’m currently learning Plotly and React
-
 💞️ I’m looking to collaborate on spatial genomics and knowledge graphing. 
 
 📫 How to reach me kve@caltech.edu
